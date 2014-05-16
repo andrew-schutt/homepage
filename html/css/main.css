@@ -1,0 +1,47 @@
+#content {
+	background-color=#000000;
+	}
+	
+#header {
+		width: 100%;
+		text-align: center;
+	}
+	
+#headerbar {
+		margin-top: 10px;
+		background:#99FFFF;
+		height:40px;
+	}
+	
+#pageContent {
+		width:750px;
+		margin:0px auto;
+		text-align:left;
+		padding:15px;
+		font-size:22px;
+		
+	}
+	
+ul li {
+	display:inline;
+	font-size:16px;
+	font-weight:bold;
+}
+
+body {
+	background-color:#AAAAAA;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	padding: 0;
+	margin:50px 0px; 
+	padding:0px;
+	text-align:center;
+}
+
+a:link {
+	color:#000000;
+}
+
+a:hover {
+	color:#AA66AA;
+}
